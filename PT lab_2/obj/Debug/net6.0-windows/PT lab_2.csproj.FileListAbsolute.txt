@@ -1,0 +1,45 @@
+C:\Users\marce\source\repos\PT lab_2\PT lab_2\bin\Debug\net6.0-windows\PT lab_2.exe
+C:\Users\marce\source\repos\PT lab_2\PT lab_2\bin\Debug\net6.0-windows\PT lab_2.deps.json
+C:\Users\marce\source\repos\PT lab_2\PT lab_2\bin\Debug\net6.0-windows\PT lab_2.runtimeconfig.json
+C:\Users\marce\source\repos\PT lab_2\PT lab_2\bin\Debug\net6.0-windows\PT lab_2.dll
+C:\Users\marce\source\repos\PT lab_2\PT lab_2\bin\Debug\net6.0-windows\PT lab_2.pdb
+C:\Users\marce\source\repos\PT lab_2\PT lab_2\obj\Debug\net6.0-windows\PT lab_2.csproj.AssemblyReference.cache
+C:\Users\marce\source\repos\PT lab_2\PT lab_2\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\marce\source\repos\PT lab_2\PT lab_2\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\marce\source\repos\PT lab_2\PT lab_2\obj\Debug\net6.0-windows\PT lab_2_MarkupCompile.cache
+C:\Users\marce\source\repos\PT lab_2\PT lab_2\obj\Debug\net6.0-windows\PT lab_2_MarkupCompile.lref
+C:\Users\marce\source\repos\PT lab_2\PT lab_2\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\marce\source\repos\PT lab_2\PT lab_2\obj\Debug\net6.0-windows\PT lab_2.g.resources
+C:\Users\marce\source\repos\PT lab_2\PT lab_2\obj\Debug\net6.0-windows\PT lab_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\source\repos\PT lab_2\PT lab_2\obj\Debug\net6.0-windows\PT lab_2.AssemblyInfoInputs.cache
+C:\Users\marce\source\repos\PT lab_2\PT lab_2\obj\Debug\net6.0-windows\PT lab_2.AssemblyInfo.cs
+C:\Users\marce\source\repos\PT lab_2\PT lab_2\obj\Debug\net6.0-windows\PT lab_2.csproj.CoreCompileInputs.cache
+C:\Users\marce\source\repos\PT lab_2\PT lab_2\obj\Debug\net6.0-windows\PT lab_2.dll
+C:\Users\marce\source\repos\PT lab_2\PT lab_2\obj\Debug\net6.0-windows\refint\PT lab_2.dll
+C:\Users\marce\source\repos\PT lab_2\PT lab_2\obj\Debug\net6.0-windows\PT lab_2.pdb
+C:\Users\marce\source\repos\PT lab_2\PT lab_2\obj\Debug\net6.0-windows\PT lab_2.genruntimeconfig.cache
+C:\Users\marce\source\repos\PT lab_2\PT lab_2\obj\Debug\net6.0-windows\ref\PT lab_2.dll
+C:\Users\marce\source\repos\PT lab_2\PT lab_2\obj\Debug\net6.0-windows\Dialog.g.cs
+C:\Users\marce\source\repos\PT lab_2\PT lab_2\obj\Debug\net6.0-windows\Dialog.baml
+E:\Visual Studio Projects\PT lab_2\PT lab_2\bin\Debug\net6.0-windows\PT lab_2.exe
+E:\Visual Studio Projects\PT lab_2\PT lab_2\bin\Debug\net6.0-windows\PT lab_2.deps.json
+E:\Visual Studio Projects\PT lab_2\PT lab_2\bin\Debug\net6.0-windows\PT lab_2.runtimeconfig.json
+E:\Visual Studio Projects\PT lab_2\PT lab_2\bin\Debug\net6.0-windows\PT lab_2.dll
+E:\Visual Studio Projects\PT lab_2\PT lab_2\bin\Debug\net6.0-windows\PT lab_2.pdb
+E:\Visual Studio Projects\PT lab_2\PT lab_2\obj\Debug\net6.0-windows\Dialog.g.cs
+E:\Visual Studio Projects\PT lab_2\PT lab_2\obj\Debug\net6.0-windows\MainWindow.g.cs
+E:\Visual Studio Projects\PT lab_2\PT lab_2\obj\Debug\net6.0-windows\App.g.cs
+E:\Visual Studio Projects\PT lab_2\PT lab_2\obj\Debug\net6.0-windows\PT lab_2_MarkupCompile.cache
+E:\Visual Studio Projects\PT lab_2\PT lab_2\obj\Debug\net6.0-windows\PT lab_2_MarkupCompile.lref
+E:\Visual Studio Projects\PT lab_2\PT lab_2\obj\Debug\net6.0-windows\Dialog.baml
+E:\Visual Studio Projects\PT lab_2\PT lab_2\obj\Debug\net6.0-windows\MainWindow.baml
+E:\Visual Studio Projects\PT lab_2\PT lab_2\obj\Debug\net6.0-windows\PT lab_2.g.resources
+E:\Visual Studio Projects\PT lab_2\PT lab_2\obj\Debug\net6.0-windows\PT lab_2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Projects\PT lab_2\PT lab_2\obj\Debug\net6.0-windows\PT lab_2.AssemblyInfoInputs.cache
+E:\Visual Studio Projects\PT lab_2\PT lab_2\obj\Debug\net6.0-windows\PT lab_2.AssemblyInfo.cs
+E:\Visual Studio Projects\PT lab_2\PT lab_2\obj\Debug\net6.0-windows\PT lab_2.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\PT lab_2\PT lab_2\obj\Debug\net6.0-windows\PT lab_2.dll
+E:\Visual Studio Projects\PT lab_2\PT lab_2\obj\Debug\net6.0-windows\refint\PT lab_2.dll
+E:\Visual Studio Projects\PT lab_2\PT lab_2\obj\Debug\net6.0-windows\PT lab_2.pdb
+E:\Visual Studio Projects\PT lab_2\PT lab_2\obj\Debug\net6.0-windows\PT lab_2.genruntimeconfig.cache
+E:\Visual Studio Projects\PT lab_2\PT lab_2\obj\Debug\net6.0-windows\ref\PT lab_2.dll

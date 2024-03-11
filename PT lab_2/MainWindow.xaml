@@ -1,0 +1,28 @@
+﻿<Window x:Class="PT_lab_2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PT_lab_2"
+        mc:Ignorable="d"
+        Title="File Searcher" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="400*"/>
+            <ColumnDefinition Width="500*"/>
+        </Grid.ColumnDefinitions>
+        <ToolBar VerticalAlignment="Top" Margin="10,5,10,0" Grid.ColumnSpan="1">
+            <Menu DockPanel.Dock="Top">
+                <MenuItem Header="File">
+                    <MenuItem Header="Open" Click="Open"/>
+                </MenuItem>
+                <MenuItem Header="Exit" Click="Exit"/>
+            </Menu>
+        </ToolBar>
+        <TreeView x:Name="treeView" Margin="5,70,445,5" Grid.ColumnSpan="2"/>
+        <StatusBar Margin="30,40,30,350">
+            <TextBlock x:Name="Status"/>
+        </StatusBar>
+        <ScrollViewer x:Name="scrollViewer" Margin="5,5,5,5" HorizontalScrollBarVisibility="Auto" Grid.Column="1"/>
+    </Grid>
+</Window>

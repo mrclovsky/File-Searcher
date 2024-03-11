@@ -1,0 +1,6 @@
+C:\Users\marce\source\repos\PT lab_2\PT lab_2\obj\Debug\net5.0-windows\PT lab_2.csproj.AssemblyReference.cache
+C:\Users\marce\source\repos\PT lab_2\PT lab_2\obj\Debug\net5.0-windows\Dialog.g.cs
+C:\Users\marce\source\repos\PT lab_2\PT lab_2\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\marce\source\repos\PT lab_2\PT lab_2\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\marce\source\repos\PT lab_2\PT lab_2\obj\Debug\net5.0-windows\PT lab_2_MarkupCompile.cache
+C:\Users\marce\source\repos\PT lab_2\PT lab_2\obj\Debug\net5.0-windows\PT lab_2_MarkupCompile.lref
